@@ -3,7 +3,7 @@ LED Light-Up Sneakers I can light them up to different colors and even make them
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Komail| East High School | Comoputer Scince & Business | Senior 
+| Komail| East High School | Comoputer Science & Business | Senior 
 
 ![Relevant Name](https://live.staticflickr.com/65535/52852175615_c29c92411d_c.jpg)
 
