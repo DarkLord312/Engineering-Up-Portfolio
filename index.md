@@ -1,9 +1,9 @@
-# LED Light Up Sneakers
-This will serve as a brief description of your projects. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make her/him want to read more.
+# LED Light-Up Sneakers
+LED Light-Up Sneakers I can light them up to different colors and even make them lights to have animation by codes! I use Arduino to code my LED strip light. can't wait to make one for my skateboard.  
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Your Name| Current Highschool | Mechanical Engineering | Senior 
+| Komail| East High School | Comoputer Scince & Business | Senior 
 
 ![Relevant Name](https://live.staticflickr.com/65535/52852175615_c29c92411d_c.jpg)
 
