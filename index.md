@@ -5,7 +5,7 @@ LED Light-Up Sneakers I can light them up to different colors and even make them
 |:--:|:--:|:--:|:--:|
 | Komail| East High School | Comoputer Science & Business | Senior 
 
-[![Final Arduino Project].(https://live.staticflickr.com/65535/53367475198_12544aaa41.jpg)
+![Final Arduino Project](https://live.staticflickr.com/65535/53367475198_12544aaa41.jpg)
 
 # Final Milestone
 
