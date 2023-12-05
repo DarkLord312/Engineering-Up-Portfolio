@@ -11,7 +11,7 @@ LED Light-Up Sneakers I can light them up to different colors and even make them
 
 My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I've stripped away a lot of the parts that were originally on the robot to create room for my kicking arm. I changed the code a lot to accommodate the second H-Bridge which I go more in-depth about in my video below. I've loved this journey so far and I can't wait to see where this takes me in my future career.
 
-[![Final Arduino Project](https://youtu.be/XrS_lvofTQs)
+[![Final Milstone ](https://i.ytimg.com/vi/XrS_lvofTQs/maxresdefault.jpg)](https://www.youtube.com/watch?v=XrS_lvofTQs "Final Milstone ")
 
 # Final Schematic 
 ![Relevant Name](https://live.staticflickr.com/65535/53367297316_60cf41c60a_z.jpg)
