@@ -9,7 +9,7 @@ LED Light-Up Sneakers I can light them up to different colors and even make them
 
 # Final Milestone
 
-My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I've stripped away a lot of the parts that were originally on the robot to create room for my kicking arm. I changed the code a lot to accommodate the second H-Bridge which I go more in-depth about in my video below. I've loved this journey so far and I can't wait to see where this takes me in my future career.
+My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I have learned how to use soldering and connect wires with solder. solder is a metal that has a low melting point which causes it to melt and freeze fast. all along I have also learned how to use FTDI to program a pro mini Arduino which a pro mini Arduino can not directly get connected to the computer in order to save the codes within itself. I have applied adjustments to the codes to make them look like fire 🔥.
 
 [![Final Milstone ](https://i.ytimg.com/vi/XrS_lvofTQs/maxresdefault.jpg)](https://www.youtube.com/watch?v=XrS_lvofTQs "Final Milstone ") 
 
