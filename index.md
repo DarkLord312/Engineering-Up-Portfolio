@@ -10,9 +10,8 @@ With my LED Light-Up Sneakers, I can light them up to different colors and even 
 # Final Milestone
 
 My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I have learned how to use soldering and connect wires with Solder. Solder is a metal that has a low melting point which causes it to melt and freeze fast. All along I have also learned how to use FTDI to program a pro mini Arduino which a pro mini Arduino can not directly get connected to the computer to save the codes within itself. I have applied adjustments to the codes to make them look like fire 🔥.
-
-[![Final Milstone ](https://i.ytimg.com/vi/XrS_lvofTQs/maxresdefault.jpg)](https://www.youtube.com/watch?v=XrS_lvofTQs "Final Milstone ") 
-
+ 
+[![Final Milestone ](https://i.ytimg.com/vi/hYDZMNxq16w/maxresdefault.jpg)](https://www.youtube.com/watch?v=hYDZMNxq16w "Final Milestone ")
 # The Fire Style Code for the LED Lights
 [Fire Style Code LED](https://github.com/DarkLord312/Engineering-Up-Portfolio/blob/671eaa03348c85541bd4ef682953beec4d672421/The_Fire_Style_Code_for_the_LED_Lights.ino).
 
