@@ -13,10 +13,8 @@ My final milestone, I've come a long way from where I started just a couple of m
 
 [![Final Arduino Project](https://youtu.be/XrS_lvofTQs)
 
-# Final Schematic Sir Kickington 
+# Final Schematic 
 ![Relevant Name](https://live.staticflickr.com/65535/53367297316_60cf41c60a_z.jpg)
-
-# Second Milestone 
 
 # First Milestone
   
