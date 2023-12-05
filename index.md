@@ -1,9 +1,9 @@
 # LED Light-Up Sneakers
-LED Light-Up Sneakers I can light them up to different colors and even make them lights to have animation by codes! I use Arduino to code my LED strip light. can't wait to make one for my skateboard.  
+LED Light-Up Sneakers I can light them up to different colors and even make them lights to have animation by codes! I use Arduino to code my LED strip light. can't wait to make one for my skateboard. After the Engineering Up program and graduating from high school, I will continue my studies in Computer science and Business, Where one day I will have my own business and be making a community where we all work toward shared goals.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Komail| East High School | Comoputer Science & Business | Senior 
+| Komail| East High School | Computer Science & Business | Senior 
 
 ![Final Arduino Project](https://live.staticflickr.com/65535/53367475198_12544aaa41.jpg)
 
