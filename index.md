@@ -9,7 +9,7 @@ LED Light-Up Sneakers I can light them up to different colors and even make them
 
 # Final Milestone
 
-My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I have learned how to use soldering and connect wires with solder. solder is a metal that has a low melting point which causes it to melt and freeze fast. all along I have also learned how to use FTDI to program a pro mini Arduino which a pro mini Arduino can not directly get connected to the computer in order to save the codes within itself. I have applied adjustments to the codes to make them look like fire 🔥.
+My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I have learned how to use soldering and connect wires with Solder. Solder is a metal that has a low melting point which causes it to melt and freeze fast. All along I have also learned how to use FTDI to program a pro mini Arduino which a pro mini Arduino can not directly get connected to the computer to save the codes within itself. I have applied adjustments to the codes to make them look like fire 🔥.
 
 [![Final Milstone ](https://i.ytimg.com/vi/XrS_lvofTQs/maxresdefault.jpg)](https://www.youtube.com/watch?v=XrS_lvofTQs "Final Milstone ") 
 
@@ -24,4 +24,4 @@ My final milestone, I've come a long way from where I started just a couple of m
 
 My first milestone was being able to light up my LED strip light with Arduino, and then, be able to code using Arduino IDE to make my LED light and have animation within itself. I also have enough knowledge to be able to talk about in detail what the Arduino Uno microcontroller, Breadboard, and LED are and how the code works.
 
-[![My First Milestone!](https://res.cloudinary.com/marcomontalbano/image/upload/v1699922738/video_to_markdown/images/youtube--m7sFZK93NL8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=m7sFZK93NL8 "My First Milestone!")
+[![First Milestone ](https://res.cloudinary.com/marcomontalbano/image/upload/v1701812029/video_to_markdown/images/youtube--m7sFZK93NL8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=m7sFZK93NL8&t=2s "First Milestone ")
